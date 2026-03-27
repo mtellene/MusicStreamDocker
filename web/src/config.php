@@ -1,4 +1,6 @@
 <?php
+session_start();
+
 $host = "db";
 $user = "root";
 $password = "root";
